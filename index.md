@@ -10,6 +10,8 @@ tagline: research
 
 2. Mediation analysis @ Causality 101 @ Brown University. (my slides)
 
+3. 
+
 ### Informed pooling with algorithm 
 akjsdh aksdjfh askj akjsdhf ak dkajd faksjd akdj ad akdsjh asljlskf lk lkdsfa lkdjfalkjdfalksd  alksd ladfa dsflakd fa dflkad 
 [more](assests)
