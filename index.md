@@ -16,6 +16,10 @@ tagline: research
 akjsdh aksdjfh askj akjsdhf ak dkajd faksjd akdj ad akdsjh asljlskf lk lkdsfa lkdjfalkjdfalksd  alksd ladfa dsflakd fa dflkad 
 [more](assests)
 
+Publications and presentations 
+
+1. Liu, T
+
 ### Selective gold standard testing 
 
 --- 
