@@ -22,5 +22,9 @@ Publications and presentations
 
 ### Selective gold standard testing 
 
+### Estimating ATE and unmeasured confounding using IV and IPW
+
+
+
 --- 
 *Last updated Apirl 2014*
