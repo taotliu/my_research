@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Resources 
-tagline: some useful information 
+title: My Research 
+tagline: Research 
 ---
 
 My recent talks: 
