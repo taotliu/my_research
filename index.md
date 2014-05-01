@@ -8,11 +8,11 @@ tagline: research
 
 1. April 2014: [NESS 2014](http://www.hsph.harvard.edu/ness2014/) @ [Harvard University](http://www.harvard.edu).    
 
-   *Optimizing Diagnosis of HIV Treatment Failure with Selective Use of Gold Standard Test* ([slides](assets/my_talks/ness_harvard.pdf)) 
+   ***Optimizing Diagnosis of HIV Treatment Failure with Selective Use of Gold Standard Test*** ([slides](assets/my_talks/ness_harvard.pdf)) 
 
 2. June 2012: Causality 101 @ Brown University. (my slides)
 
-   *Mediation Analysis II* ([slides](foo))
+   ***Mediation Analysis II*** ([slides](foo))
 
 3. 
 
