@@ -30,7 +30,7 @@ The World Health Organization (WHO) guidelines for monitoring the effectiveness 
 
 1. Liu
 
-### Assessing local sensitivity to nonignorable data coarsening
+### Local sensitivity to nonignorable data coarsening
 
 ### Estimating ATE and unmeasured confounding
 
