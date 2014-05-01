@@ -42,5 +42,7 @@ Untestable assumptions about the association between survival and censoring time
 
 ### Enrichment study design 
 
+Randomized discontinuation trial (RDT) has gained popularity across a number of ther- apeutic areas. Oncology is one of the most known. In the simplest case, at the initial open-label stage all patients are treated with the experimental treatment to identify a population of responders. This stage is followed by a randomized two-arm trial to com- pare two conditions, for example, treatment versus placebo. Potentially RDT increases the efficiency of trials relatively to traditional designs gaining information from a sen- sitized population if the open-label stage provides a reliable separation of responders from nonresponders. Often a sensitized population is called an enriched population, and respectively, the RDT is called “enrichment experiment.” We compare RDT with the traditional two-arm randomized clinical trials (RCT) for binary outcomes assuming that the population of interest consists of three groups: placebo responders, treatment-only responders, and nonresponders. Our results are derived in the “parameter estimation” setting and they are based on the comparison of estimator variances. We identify con- ditions under which RDT is either superior or inferior to RCT in terms of response rates, misclassification rates, and clinical ethics. Extension of our results to design optimization, hypothesis testing, and sample size calculation is rather straightforward. ...[more](foo)
+
 --- 
 *Last updated Apirl 2014*
