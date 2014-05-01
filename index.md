@@ -34,7 +34,7 @@ The World Health Organization (WHO) guidelines for monitoring the effectiveness 
 
 ### Estimating ATE and unmeasured confounding
 
-### Enrichment design 
+### Enrichment study design 
 
 --- 
 *Last updated Apirl 2014*
