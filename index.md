@@ -30,6 +30,8 @@ The World Health Organization (WHO) guidelines for monitoring the effectiveness 
 
 1. Liu
 
+### Local sensitivity analysis when data are not coarsened at random 
+
 ### Estimating ATE and unmeasured confounding
 
 ### Enrichment design 
