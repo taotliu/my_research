@@ -34,7 +34,7 @@ The World Health Organization (WHO) guidelines for monitoring the effectiveness 
 
 1. Liu 
 
-   See [PDF](assets/my_papers/jasa_tliu.pdf). Online [version](http://www.tandfonline.com/doi/pdf/10.1080/01621459.2013.810149) access to Taylor & Francis needed. 
+   See [PDF](assets/my_papers/jasa_tliu.pdf); or the online [version](http://www.tandfonline.com/doi/pdf/10.1080/01621459.2013.810149) (access to Taylor & Francis needed). 
 
 ### Local sensitivity to nonignorable data coarsening
 
