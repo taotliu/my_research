@@ -32,7 +32,7 @@ The World Health Organization (WHO) guidelines for monitoring the effectiveness 
 
 ***Publications***
 
-1. Liu
+1. Liu See [PDF](assets/my_papers/jasa_tliu.pdf)
 
 ### Local sensitivity to nonignorable data coarsening
 
